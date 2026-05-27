@@ -131,7 +131,10 @@ Add screenshots here:
 
 ## 👩‍💻 Developed By
 
-Shubhangi  
+Shubhangi
+Vaishnavi
+Monisha
+
 Final Year Project  
 AI-Based Career Recommendation System
 
